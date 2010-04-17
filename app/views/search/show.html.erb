@@ -1,1 +1,5 @@
-<%= @term %>
+<p><%= @term %></p>
+
+<%= @page_num == 'page1' ? 'page1' : link_to('page1', search_path(:page => 1))  %> 
+<%= @page_num == 'page2' ? 'page2' : link_to('page2', search_path(:page => 2))  %> 
+<%= @page_num == 'page3' ? 'page3' : link_to('page3', search_path(:page => 3))  %> 
