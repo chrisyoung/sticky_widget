@@ -14693,3 +14693,3483 @@ Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/pages/search_result
 Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 19:34:44) [GET]
 Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
 Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:27:21) [GET]
+  Parameters: {"page"=>"1"}
+Redirected to http://localhost:3000/pages/search_result?page=page3
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=1]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:27:21) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page3"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page3]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:27:21) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 25ms (View: 24, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:27:22) [GET]
+  Parameters: {"page"=>"2"}
+Redirected to http://localhost:3000/pages/search_result?page=page1
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=2]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:27:22) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page1"}
+Rendering pages/search_result
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page1]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:27:22) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:27:23) [GET]
+  Parameters: {"page"=>"3"}
+Redirected to http://localhost:3000/pages/search_result?page=page2
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=3]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:27:23) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:27:23) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:27:24) [GET]
+  Parameters: {"page"=>"2"}
+Redirected to http://localhost:3000/pages/search_result?page=page3
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=2]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:27:24) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page3"}
+Rendering pages/search_result
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page3]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:27:24) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:27:25) [GET]
+  Parameters: {"page"=>"1"}
+Redirected to http://localhost:3000/pages/search_result?page=page2
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=1]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:27:25) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:27:25) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:28:23) [GET]
+  Parameters: {"page"=>"2"}
+Redirected to http://localhost:3000/pages/search_result?page=page1
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=2]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:28:23) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page1"}
+Rendering pages/search_result
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page1]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:28:23) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:28:24) [GET]
+  Parameters: {"page"=>"3"}
+Redirected to http://localhost:3000/pages/search_result?page=page2
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=3]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:28:24) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:28:24) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:28:25) [GET]
+  Parameters: {"page"=>"2"}
+Redirected to http://localhost:3000/pages/search_result?page=page3
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=2]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:28:25) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page3"}
+Rendering pages/search_result
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page3]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:28:25) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:28:26) [GET]
+  Parameters: {"page"=>"1"}
+Redirected to http://localhost:3000/pages/search_result?page=page2
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=1]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:28:26) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:28:26) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:28:26) [GET]
+  Parameters: {"page"=>"2"}
+Redirected to http://localhost:3000/pages/search_result?page=page1
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=2]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:28:26) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page1"}
+Rendering pages/search_result
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page1]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:28:26) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:28:27) [GET]
+  Parameters: {"page"=>"3"}
+Redirected to http://localhost:3000/pages/search_result?page=page2
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=3]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:28:27) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:28:27) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:28:28) [GET]
+  Parameters: {"page"=>"2"}
+Redirected to http://localhost:3000/pages/search_result?page=page3
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=2]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:28:28) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page3"}
+Rendering pages/search_result
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page3]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:28:28) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:28:29) [GET]
+  Parameters: {"page"=>"1"}
+Redirected to http://localhost:3000/pages/search_result?page=page2
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=1]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:28:29) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:28:29) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:28:30) [GET]
+  Parameters: {"page"=>"2"}
+Redirected to http://localhost:3000/pages/search_result?page=page1
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=2]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:28:30) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page1"}
+Rendering pages/search_result
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page1]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:28:30) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:28:31) [GET]
+  Parameters: {"page"=>"3"}
+Redirected to http://localhost:3000/pages/search_result?page=page2
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=3]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:28:31) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:28:31) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:28:32) [GET]
+  Parameters: {"page"=>"2"}
+Redirected to http://localhost:3000/pages/search_result?page=page3
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=2]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:28:32) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page3"}
+Rendering pages/search_result
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page3]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:28:32) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:28:33) [GET]
+  Parameters: {"page"=>"1"}
+Redirected to http://localhost:3000/pages/search_result?page=page2
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=1]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:28:33) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:28:33) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:28:33) [GET]
+  Parameters: {"page"=>"2"}
+Redirected to http://localhost:3000/pages/search_result?page=page1
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=2]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:28:33) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page1"}
+Rendering pages/search_result
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page1]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:28:33) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:28:34) [GET]
+  Parameters: {"page"=>"3"}
+Redirected to http://localhost:3000/pages/search_result?page=page2
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=3]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:28:34) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:28:34) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:30:20) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:30:20) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:30:47) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:30:47) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:31:12) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:31:12) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:31:13) [GET]
+  Parameters: {"id"=>"search"}
+Rendering pages/search
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/pages/search]
+
+
+Processing SearchController#new to js (for 127.0.0.1 at 2010-04-16 20:31:13) [GET]
+  Parameters: {"search"=>"search", "search_result"=>"search_result"}
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/search/new.js?search=search;search_result=search_result]
+
+
+Processing SearchController#create (for 127.0.0.1 at 2010-04-16 20:31:15) [POST]
+  Parameters: {"term"=>"test", "commit"=>"Save changes", "authenticity_token"=>"HTrI6UlCkfj8KgXIE3CivXgNmm4HE5k2dS6jK/C5FRg="}
+Redirected to http://localhost:3000/pages/search_result
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:31:15) [GET]
+  Parameters: {"id"=>"search_result"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:31:15) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:31:44) [GET]
+  Parameters: {"id"=>"search_result"}
+Rendering pages/search_result
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/pages/search_result]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:31:45) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:31:46) [GET]
+  Parameters: {"id"=>"search"}
+Rendering pages/search
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/pages/search]
+
+
+Processing SearchController#new to js (for 127.0.0.1 at 2010-04-16 20:31:46) [GET]
+  Parameters: {"search"=>"search", "search_result"=>"search_result"}
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/search/new.js?search=search;search_result=search_result]
+
+
+Processing SearchController#create (for 127.0.0.1 at 2010-04-16 20:31:49) [POST]
+  Parameters: {"term"=>"test", "commit"=>"Save changes", "authenticity_token"=>"HTrI6UlCkfj8KgXIE3CivXgNmm4HE5k2dS6jK/C5FRg="}
+Redirected to http://localhost:3000/pages/search_result
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:31:49) [GET]
+  Parameters: {"id"=>"search_result"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:31:49) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:31:52) [GET]
+  Parameters: {"id"=>"search"}
+Rendering pages/search
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search]
+
+
+Processing SearchController#new to js (for 127.0.0.1 at 2010-04-16 20:31:53) [GET]
+  Parameters: {"search"=>"search", "search_result"=>"search_result"}
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/search/new.js?search=search;search_result=search_result]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:31:58) [GET]
+  Parameters: {"id"=>"search"}
+Rendering pages/search
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search]
+
+
+Processing SearchController#new to js (for 127.0.0.1 at 2010-04-16 20:31:58) [GET]
+  Parameters: {"search"=>"search", "search_result"=>"search_result"}
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/search/new.js?search=search;search_result=search_result]
+
+
+Processing SearchController#create (for 127.0.0.1 at 2010-04-16 20:32:01) [POST]
+  Parameters: {"term"=>"tstwr", "commit"=>"Save changes", "authenticity_token"=>"HTrI6UlCkfj8KgXIE3CivXgNmm4HE5k2dS6jK/C5FRg="}
+Redirected to http://localhost:3000/pages/search_result
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:32:01) [GET]
+  Parameters: {"id"=>"search_result"}
+Rendering pages/search_result
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/pages/search_result]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:32:01) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:32:03) [GET]
+  Parameters: {"page"=>"2"}
+Redirected to http://localhost:3000/pages/search_result?page=page3
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=2]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:32:03) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page3"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page3]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:32:03) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:32:04) [GET]
+  Parameters: {"page"=>"1"}
+Redirected to http://localhost:3000/pages/search_result?page=page2
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=1]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:32:04) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:32:04) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:32:05) [GET]
+  Parameters: {"page"=>"2"}
+Redirected to http://localhost:3000/pages/search_result?page=page1
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=2]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:32:05) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page1"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page1]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:32:05) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:32:05) [GET]
+  Parameters: {"page"=>"3"}
+Redirected to http://localhost:3000/pages/search_result?page=page2
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=3]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:32:05) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:32:05) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:32:06) [GET]
+  Parameters: {"page"=>"1"}
+Redirected to http://localhost:3000/pages/search_result?page=page3
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=1]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:32:06) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page3"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page3]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:32:06) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:32:07) [GET]
+  Parameters: {"page"=>"2"}
+Redirected to http://localhost:3000/pages/search_result?page=page1
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=2]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:32:07) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page1"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page1]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:32:07) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 6ms (View: 3, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:32:07) [GET]
+  Parameters: {"page"=>"3"}
+Redirected to http://localhost:3000/pages/search_result?page=page2
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=3]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:32:07) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:32:07) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:32:08) [GET]
+  Parameters: {"page"=>"2"}
+Redirected to http://localhost:3000/pages/search_result?page=page3
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=2]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:32:08) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page3"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page3]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:32:08) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:32:08) [GET]
+  Parameters: {"page"=>"1"}
+Redirected to http://localhost:3000/pages/search_result?page=page2
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=1]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:32:08) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:32:08) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:32:12) [GET]
+  Parameters: {"page"=>"2"}
+Redirected to http://localhost:3000/pages/search_result?page=page1
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=2]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:32:12) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page1"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page1]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:32:12) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:32:12) [GET]
+  Parameters: {"page"=>"3"}
+Redirected to http://localhost:3000/pages/search_result?page=page2
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=3]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:32:12) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:32:12) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:32:13) [GET]
+  Parameters: {"page"=>"2"}
+Redirected to http://localhost:3000/pages/search_result?page=page3
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=2]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:32:13) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page3"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page3]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:32:13) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:32:13) [GET]
+  Parameters: {"page"=>"1"}
+Redirected to http://localhost:3000/pages/search_result?page=page2
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=1]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:32:13) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:32:13) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:32:14) [GET]
+  Parameters: {"page"=>"3"}
+Redirected to http://localhost:3000/pages/search_result?page=page1
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=3]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:32:14) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page1"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page1]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:32:14) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:32:14) [GET]
+  Parameters: {"page"=>"2"}
+Redirected to http://localhost:3000/pages/search_result?page=page3
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=2]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:32:14) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page3"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page3]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:32:14) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:32:15) [GET]
+  Parameters: {"page"=>"1"}
+Redirected to http://localhost:3000/pages/search_result?page=page2
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=1]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:32:15) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:32:15) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:32:15) [GET]
+  Parameters: {"page"=>"2"}
+Redirected to http://localhost:3000/pages/search_result?page=page1
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=2]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:32:15) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page1"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page1]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:32:15) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:32:16) [GET]
+  Parameters: {"page"=>"3"}
+Redirected to http://localhost:3000/pages/search_result?page=page2
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=3]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:32:16) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:32:16) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:32:16) [GET]
+  Parameters: {"page"=>"1"}
+Redirected to http://localhost:3000/pages/search_result?page=page3
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=1]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:32:16) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page3"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page3]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:32:16) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:32:16) [GET]
+  Parameters: {"page"=>"2"}
+Redirected to http://localhost:3000/pages/search_result?page=page1
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=2]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:32:16) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page1"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page1]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:32:17) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:34:17) [GET]
+  Parameters: {"id"=>"search"}
+Rendering pages/search
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/pages/search]
+
+
+Processing SearchController#new to js (for 127.0.0.1 at 2010-04-16 20:34:17) [GET]
+  Parameters: {"search"=>"search", "search_result"=>"search_result"}
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/search/new.js?search=search;search_result=search_result]
+
+
+Processing SearchController#create (for 127.0.0.1 at 2010-04-16 20:34:19) [POST]
+  Parameters: {"term"=>"sdfdsfa", "commit"=>"Save changes", "authenticity_token"=>"HTrI6UlCkfj8KgXIE3CivXgNmm4HE5k2dS6jK/C5FRg="}
+Redirected to http://localhost:3000/pages/search_result
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:34:19) [GET]
+  Parameters: {"id"=>"search_result"}
+Rendering pages/search_result
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/pages/search_result]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:34:19) [GET]
+
+RuntimeError ():
+  app/controllers/search_controller.rb:11:in `show'
+
+Rendered rescues/_trace (33.0ms)
+Rendered rescues/_request_and_response (1.5ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:34:30) [GET]
+  Parameters: {"id"=>"search_result"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:34:30) [GET]
+
+RuntimeError ():
+  app/controllers/search_controller.rb:11:in `show'
+
+Rendered rescues/_trace (30.3ms)
+Rendered rescues/_request_and_response (0.4ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:35:27) [GET]
+  Parameters: {"id"=>"search_result"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:35:27) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:35:36) [GET]
+  Parameters: {"page"=>"1"}
+Redirected to http://localhost:3000/pages/search_result?page=page2
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=1]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:35:36) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:35:36) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:36:02) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:36:02) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:36:09) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:36:09) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:36:14) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:36:14) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 6ms (View: 3, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:36:44) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:36:44) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:36:45) [GET]
+  Parameters: {"page"=>"2"}
+Redirected to http://localhost:3000/pages/search_result?page=page1
+Completed in 3ms (DB: 0) | 302 Found [http://localhost/search?page=2]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:36:45) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page1"}
+Rendering pages/search_result
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page1]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:36:45) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#create (for 127.0.0.1 at 2010-04-16 20:36:50) [POST]
+  Parameters: {"term"=>"sdfdsfa", "commit"=>"Save changes", "authenticity_token"=>"HTrI6UlCkfj8KgXIE3CivXgNmm4HE5k2dS6jK/C5FRg="}
+Redirected to http://localhost:3000/pages/search_result
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:36:50) [GET]
+  Parameters: {"id"=>"search_result"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:36:50) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:37:06) [GET]
+  Parameters: {"id"=>"search_result"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:37:06) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:37:14) [GET]
+  Parameters: {"page"=>"3"}
+Redirected to http://localhost:3000/pages/search_result?page=page2
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=3]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:37:14) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:37:14) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:37:54) [GET]
+  Parameters: {"page"=>"1"}
+Redirected to http://localhost:3000/pages/search_result?page=page3
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=1]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:37:54) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page3"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page3]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:37:55) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:38:34) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page3"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page3]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:38:34) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:38:35) [GET]
+  Parameters: {"page"=>"2"}
+Redirected to http://localhost:3000/pages/search_result?page=page1
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=2]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:38:35) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page1"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page1]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:38:35) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:38:36) [GET]
+  Parameters: {"page"=>"3"}
+Redirected to http://localhost:3000/pages/search_result?page=page2
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=3]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:38:36) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:38:36) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:38:36) [GET]
+  Parameters: {"page"=>"2"}
+Redirected to http://localhost:3000/pages/search_result?page=page3
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=2]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:38:36) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page3"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page3]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:38:36) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:38:37) [GET]
+  Parameters: {"page"=>"1"}
+Redirected to http://localhost:3000/pages/search_result?page=page2
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=1]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:38:37) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:38:37) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:38:38) [GET]
+  Parameters: {"page"=>"2"}
+Redirected to http://localhost:3000/pages/search_result?page=page1
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=2]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:38:38) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page1"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page1]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:38:38) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:38:38) [GET]
+  Parameters: {"page"=>"3"}
+Redirected to http://localhost:3000/pages/search_result?page=page2
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=3]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:38:38) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:38:38) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:38:39) [GET]
+  Parameters: {"page"=>"2"}
+Redirected to http://localhost:3000/pages/search_result?page=page3
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=2]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:38:39) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page3"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page3]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:38:39) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:38:39) [GET]
+  Parameters: {"page"=>"1"}
+Redirected to http://localhost:3000/pages/search_result?page=page2
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=1]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:38:40) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:38:40) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:38:41) [GET]
+  Parameters: {"page"=>"2"}
+Redirected to http://localhost:3000/pages/search_result?page=page1
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=2]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:38:41) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page1"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page1]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:38:41) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:38:41) [GET]
+  Parameters: {"page"=>"1"}
+Redirected to http://localhost:3000/pages/search_result?page=page2
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=1]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:38:41) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:38:41) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:38:42) [GET]
+  Parameters: {"page"=>"2"}
+Redirected to http://localhost:3000/pages/search_result?page=page1
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=2]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:38:42) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page1"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page1]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:38:42) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:38:43) [GET]
+  Parameters: {"page"=>"3"}
+Redirected to http://localhost:3000/pages/search_result?page=page2
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=3]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:38:43) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:38:43) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:38:43) [GET]
+  Parameters: {"page"=>"2"}
+Redirected to http://localhost:3000/pages/search_result?page=page3
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=2]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:38:43) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page3"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page3]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:38:43) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:38:43) [GET]
+  Parameters: {"page"=>"1"}
+Redirected to http://localhost:3000/pages/search_result?page=page2
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=1]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:38:43) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:38:44) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:38:45) [GET]
+  Parameters: {"id"=>"search"}
+Rendering pages/search
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search]
+
+
+Processing SearchController#new to js (for 127.0.0.1 at 2010-04-16 20:38:45) [GET]
+  Parameters: {"search"=>"search", "search_result"=>"search_result"}
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/search/new.js?search=search;search_result=search_result]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:38:47) [GET]
+  Parameters: {"page"=>"2"}
+Redirected to http://localhost:3000/pages/search_result?page=page1
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=2]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:38:47) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page1"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page1]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:38:47) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:38:48) [GET]
+  Parameters: {"page"=>"3"}
+Redirected to http://localhost:3000/pages/search_result?page=page2
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=3]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:38:48) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:38:48) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 6ms (View: 3, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:38:48) [GET]
+  Parameters: {"page"=>"2"}
+Redirected to http://localhost:3000/pages/search_result?page=page3
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=2]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:38:48) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page3"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page3]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:38:48) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:38:49) [GET]
+  Parameters: {"page"=>"1"}
+Redirected to http://localhost:3000/pages/search_result?page=page2
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=1]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:38:49) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:38:49) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:38:50) [GET]
+  Parameters: {"page"=>"3"}
+Redirected to http://localhost:3000/pages/search_result?page=page1
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=3]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:38:50) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page1"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page1]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:38:50) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:38:50) [GET]
+  Parameters: {"page"=>"2"}
+Redirected to http://localhost:3000/pages/search_result?page=page3
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=2]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:38:50) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page3"}
+Rendering pages/search_result
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page3]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:38:50) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:38:51) [GET]
+  Parameters: {"page"=>"1"}
+Redirected to http://localhost:3000/pages/search_result?page=page2
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=1]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:38:51) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:38:51) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:39:02) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:39:02) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:39:04) [GET]
+  Parameters: {"page"=>"2"}
+Redirected to http://localhost:3000/pages/search_result?page=page1
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=2]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:39:04) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page1"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page1]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:39:04) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-16 20:39:04) [GET]
+  Parameters: {"page"=>"3"}
+Redirected to http://localhost:3000/pages/search_result?page=page2
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=3]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-16 20:39:04) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-16 20:39:04) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-18 18:21:28) [GET]
+
+ActionController::RoutingError (No route matches "/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 18:21:32) [GET]
+Redirected to http://localhost:3000/pages/search_result?page=page3
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:21:32) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page3"}
+Rendering pages/search_result
+Completed in 17ms (View: 15, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page3]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:21:32) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 68ms (View: 66, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:21:39) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page3"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page3]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:21:39) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:21:54) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page3"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page3]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:21:55) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 19ms (View: 17, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 18:22:19) [GET]
+  Parameters: {"page"=>"2"}
+Redirected to http://localhost:3000/pages/search_result?page=page3
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=2]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:22:19) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page3"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page3]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:22:19) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 25ms (View: 23, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 18:22:23) [GET]
+  Parameters: {"page"=>"3"}
+Redirected to http://localhost:3000/pages/search_result?page=page2
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/search?page=3]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:22:23) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:22:23) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/search.js]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-18 18:22:40) [GET]
+
+ActionController::RoutingError (No route matches "/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 18:22:43) [GET]
+
+NoMethodError (You have a nil object when you didn't expect it!
+You might have expected an instance of ActiveRecord::Base.
+The error occurred while evaluating nil.[]):
+  lib/sticky_widget/sticky_widget.rb:10:in `sticky_param'
+  app/controllers/search_controller.rb:11:in `show'
+
+Rendered rescues/_trace (28.1ms)
+Rendered rescues/_request_and_response (0.5ms)
+Rendering rescues/layout (internal_server_error)
+/!\ FAILSAFE /!\  Sun Apr 18 18:23:42 -0700 2010
+  Status: 500 Internal Server Error
+  /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky_widget.rb:8: syntax error, unexpected '(', expecting kEND
+    session[:sticky_params]([term])
+                            ^
+/Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky_widget.rb:8: syntax error, unexpected ')', expecting kEND
+/Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky_widget.rb:24: syntax error, unexpected $end, expecting kEND
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:156:in `require'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:156:in `require'
+    /Users/chrisyoung/Projects/sticky_widget/app/controllers/application_controller.rb:3
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:380:in `load_without_new_constant_marking'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:380:in `load_file'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:379:in `load_file'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:259:in `require_or_load'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:425:in `load_missing_constant'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:80:in `const_missing'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:92:in `const_missing'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:89:in `dispatch'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:121:in `_call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:130:in `build_middleware_stack'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:29:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:29:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:9:in `cache'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:28:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/string_coercion.rb:25:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/rack-1.0.1/lib/rack/head.rb:9:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/rack-1.0.1/lib/rack/methodoverride.rb:24:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/params_parser.rb:15:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/session/cookie_store.rb:93:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/failsafe.rb:26:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `synchronize'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:114:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/reloader.rb:34:in `run'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:108:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/cgi_process.rb:44:in `dispatch_cgi'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:101:in `dispatch_cgi'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:27:in `dispatch'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:76:in `process'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:74:in `synchronize'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:74:in `process'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:159:in `process_client'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:158:in `each'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:158:in `process_client'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:285:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:285:in `initialize'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:285:in `new'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:285:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:268:in `initialize'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:268:in `new'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:268:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/configurator.rb:282:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/configurator.rb:281:in `each'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/configurator.rb:281:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:128:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/command.rb:212:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:281
+    /usr/local/bin/mongrel_rails:19:in `load'
+    /usr/local/bin/mongrel_rails:19
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 18:23:49) [GET]
+
+NoMethodError (You have a nil object when you didn't expect it!
+You might have expected an instance of ActiveRecord::Base.
+The error occurred while evaluating nil.[]):
+  lib/sticky_widget/sticky_widget.rb:8:in `sticky_param'
+  app/controllers/search_controller.rb:11:in `show'
+
+Rendered rescues/_trace (83.8ms)
+Rendered rescues/_request_and_response (1.4ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 18:24:08) [GET]
+
+NoMethodError (You have a nil object when you didn't expect it!
+You might have expected an instance of ActiveRecord::Base.
+The error occurred while evaluating nil.[]):
+  lib/sticky_widget/sticky_widget.rb:8:in `sticky_param'
+  app/controllers/search_controller.rb:11:in `show'
+
+Rendered rescues/_trace (30.0ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 18:24:09) [GET]
+
+NoMethodError (You have a nil object when you didn't expect it!
+You might have expected an instance of ActiveRecord::Base.
+The error occurred while evaluating nil.[]):
+  lib/sticky_widget/sticky_widget.rb:8:in `sticky_param'
+  app/controllers/search_controller.rb:11:in `show'
+
+Rendered rescues/_trace (34.8ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 18:24:18) [GET]
+
+NoMethodError (undefined method `merge' for nil:NilClass):
+  lib/sticky_widget/sticky_widget.rb:4:in `save_sticky_params'
+  app/controllers/search_controller.rb:16:in `show'
+  app/controllers/search_controller.rb:14:in `show'
+
+Rendered rescues/_trace (86.6ms)
+Rendered rescues/_request_and_response (1.4ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 18:24:49) [GET]
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result
+Completed in 2ms (DB: 0) | 302 Found [http://phoenix.netadventist.org/search]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:24:49) [GET]
+  Parameters: {"id"=>"search_result"}
+Rendering pages/search_result
+Completed in 187ms (View: 186, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:24:49) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 38ms (View: 36, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 18:24:55) [GET]
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result
+Completed in 2ms (DB: 0) | 302 Found [http://phoenix.netadventist.org/search]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:24:55) [GET]
+  Parameters: {"id"=>"search_result"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:24:55) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 18:35:18) [GET]
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result
+Completed in 2ms (DB: 0) | 302 Found [http://phoenix.netadventist.org/search]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:35:18) [GET]
+  Parameters: {"id"=>"search_result"}
+Rendering pages/search_result
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:35:18) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 45ms (View: 44, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 18:35:20) [GET]
+  Parameters: {"page"=>"2"}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result
+Completed in 2ms (DB: 0) | 302 Found [http://phoenix.netadventist.org/search?page=2]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:35:20) [GET]
+  Parameters: {"id"=>"search_result"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:35:20) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 18:35:22) [GET]
+  Parameters: {"page"=>"3"}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result
+Completed in 2ms (DB: 0) | 302 Found [http://phoenix.netadventist.org/search?page=3]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:35:22) [GET]
+  Parameters: {"id"=>"search_result"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:35:22) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 18:35:24) [GET]
+  Parameters: {"page"=>"1"}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result
+Completed in 2ms (DB: 0) | 302 Found [http://phoenix.netadventist.org/search?page=1]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:35:24) [GET]
+  Parameters: {"id"=>"search_result"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:35:24) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:35:42) [GET]
+  Parameters: {"id"=>"search_result"}
+Rendering pages/search_result
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:35:42) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+/!\ FAILSAFE /!\  Sun Apr 18 18:37:45 -0700 2010
+  Status: 500 Internal Server Error
+  no such file to load -- sticky_widget/sticky_widget.rb
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:156:in `require'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:156:in `require'
+    /Users/chrisyoung/Projects/sticky_widget/app/controllers/application_controller.rb:3
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:380:in `load_without_new_constant_marking'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:380:in `load_file'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:379:in `load_file'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:259:in `require_or_load'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:425:in `load_missing_constant'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:80:in `const_missing'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:92:in `const_missing'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:89:in `dispatch'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:121:in `_call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:130:in `build_middleware_stack'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:29:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:29:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:9:in `cache'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:28:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/string_coercion.rb:25:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/rack-1.0.1/lib/rack/head.rb:9:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/rack-1.0.1/lib/rack/methodoverride.rb:24:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/params_parser.rb:15:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/session/cookie_store.rb:93:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/failsafe.rb:26:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `synchronize'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:114:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/reloader.rb:34:in `run'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:108:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/cgi_process.rb:44:in `dispatch_cgi'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:101:in `dispatch_cgi'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:27:in `dispatch'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:76:in `process'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:74:in `synchronize'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:74:in `process'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:159:in `process_client'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:158:in `each'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:158:in `process_client'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:285:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:285:in `initialize'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:285:in `new'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:285:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:268:in `initialize'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:268:in `new'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:268:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/configurator.rb:282:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/configurator.rb:281:in `each'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/configurator.rb:281:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:128:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/command.rb:212:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:281
+    /usr/local/bin/mongrel_rails:19:in `load'
+    /usr/local/bin/mongrel_rails:19
+/!\ FAILSAFE /!\  Sun Apr 18 18:37:46 -0700 2010
+  Status: 500 Internal Server Error
+  no such file to load -- sticky_widget/sticky_widget.rb
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:156:in `require'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:156:in `require'
+    /Users/chrisyoung/Projects/sticky_widget/app/controllers/application_controller.rb:3
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:380:in `load_without_new_constant_marking'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:380:in `load_file'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:379:in `load_file'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:259:in `require_or_load'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:425:in `load_missing_constant'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:80:in `const_missing'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:92:in `const_missing'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:89:in `dispatch'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:121:in `_call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:130:in `build_middleware_stack'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:29:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:29:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:9:in `cache'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:28:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/string_coercion.rb:25:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/rack-1.0.1/lib/rack/head.rb:9:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/rack-1.0.1/lib/rack/methodoverride.rb:24:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/params_parser.rb:15:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/session/cookie_store.rb:93:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/failsafe.rb:26:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `synchronize'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:114:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/reloader.rb:34:in `run'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:108:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/cgi_process.rb:44:in `dispatch_cgi'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:101:in `dispatch_cgi'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:27:in `dispatch'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:76:in `process'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:74:in `synchronize'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:74:in `process'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:159:in `process_client'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:158:in `each'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:158:in `process_client'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:285:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:285:in `initialize'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:285:in `new'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:285:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:268:in `initialize'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:268:in `new'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:268:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/configurator.rb:282:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/configurator.rb:281:in `each'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/configurator.rb:281:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:128:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/command.rb:212:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:281
+    /usr/local/bin/mongrel_rails:19:in `load'
+    /usr/local/bin/mongrel_rails:19
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:38:34) [GET]
+  Parameters: {"id"=>"search_result"}
+Rendering pages/search_result
+Completed in 132ms (View: 130, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:38:35) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 11ms (View: 8, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:38:35) [GET]
+  Parameters: {"id"=>"search_result"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:38:36) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:38:53) [GET]
+  Parameters: {"id"=>"search_result"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:38:53) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:39:12) [GET]
+  Parameters: {"id"=>"search_result"}
+Rendering pages/search_result
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:39:12) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:39:12) [GET]
+  Parameters: {"id"=>"search_result"}
+Rendering pages/search_result
+Completed in 5ms (View: 2, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:39:12) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:39:19) [GET]
+  Parameters: {"id"=>"search_result"}
+Rendering pages/search_result
+Completed in 15ms (View: 14, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:39:19) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:39:19) [GET]
+  Parameters: {"id"=>"search_result"}
+Rendering pages/search_result
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:39:19) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:39:20) [GET]
+  Parameters: {"id"=>"search_result"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:39:20) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 18:39:35) [GET]
+  Parameters: {"page"=>"2"}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result
+Completed in 2ms (DB: 0) | 302 Found [http://phoenix.netadventist.org/search?page=2]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:39:35) [GET]
+  Parameters: {"id"=>"search_result"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:39:35) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 18:39:36) [GET]
+  Parameters: {"page"=>"3"}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result
+Completed in 2ms (DB: 0) | 302 Found [http://phoenix.netadventist.org/search?page=3]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:39:36) [GET]
+  Parameters: {"id"=>"search_result"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:39:36) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 18:39:38) [GET]
+  Parameters: {"page"=>"1"}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result
+Completed in 2ms (DB: 0) | 302 Found [http://phoenix.netadventist.org/search?page=1]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:39:38) [GET]
+  Parameters: {"id"=>"search_result"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:39:38) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 18:39:38) [GET]
+  Parameters: {"page"=>"2"}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result
+Completed in 2ms (DB: 0) | 302 Found [http://phoenix.netadventist.org/search?page=2]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:39:38) [GET]
+  Parameters: {"id"=>"search_result"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:39:38) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 18:39:39) [GET]
+  Parameters: {"page"=>"3"}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result
+Completed in 2ms (DB: 0) | 302 Found [http://phoenix.netadventist.org/search?page=3]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:39:39) [GET]
+  Parameters: {"id"=>"search_result"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:39:39) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 6ms (View: 3, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:39:58) [GET]
+  Parameters: {"id"=>"search_result"}
+Rendering pages/search_result
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:39:58) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:39:59) [GET]
+  Parameters: {"id"=>"search_result"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:39:59) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 18:40:00) [GET]
+  Parameters: {"page"=>"3"}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result
+Completed in 2ms (DB: 0) | 302 Found [http://phoenix.netadventist.org/search?page=3]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:40:00) [GET]
+  Parameters: {"id"=>"search_result"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:40:00) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 18:40:01) [GET]
+  Parameters: {"page"=>"2"}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result
+Completed in 2ms (DB: 0) | 302 Found [http://phoenix.netadventist.org/search?page=2]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:40:01) [GET]
+  Parameters: {"id"=>"search_result"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:40:01) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:40:05) [GET]
+  Parameters: {"id"=>"search_result"}
+Rendering pages/search_result
+Completed in 16ms (View: 15, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:40:05) [GET]
+
+NoMethodError (You have a nil object when you didn't expect it!
+You might have expected an instance of ActiveRecord::Base.
+The error occurred while evaluating nil.[]):
+  lib/sticky_widget/sticky_widget.rb:8:in `sticky_param'
+  app/controllers/search_controller.rb:11:in `show'
+
+Rendered rescues/_trace (31.9ms)
+Rendered rescues/_request_and_response (1.4ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:40:08) [GET]
+  Parameters: {"id"=>"search"}
+Rendering pages/search
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search]
+
+
+Processing SearchController#new to js (for 127.0.0.1 at 2010-04-18 18:40:08) [GET]
+  Parameters: {"search"=>"search", "search_result"=>"search_result"}
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 118ms (View: 117, DB: 0) | 200 OK [http://phoenix.netadventist.org/search/new.js?search=search;search_result=search_result]
+
+
+Processing SearchController#create (for 127.0.0.1 at 2010-04-18 18:40:13) [POST]
+  Parameters: {"term"=>"dsfad", "commit"=>"Save changes", "authenticity_token"=>"0Y9DS63HmfT1IJs07A3ljSjneAHwE26mWhzlIjGHDE8="}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result
+
+NoMethodError (undefined method `merge' for nil:NilClass):
+  lib/sticky_widget/sticky_widget.rb:4:in `save_sticky_params'
+
+Rendered rescues/_trace (35.0ms)
+Rendered rescues/_request_and_response (0.4ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SearchController#create (for 127.0.0.1 at 2010-04-18 18:48:46) [POST]
+  Parameters: {"term"=>"dsfad", "commit"=>"Save changes", "authenticity_token"=>"0Y9DS63HmfT1IJs07A3ljSjneAHwE26mWhzlIjGHDE8="}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result
+
+NoMethodError (undefined method `merge' for []:Array):
+  lib/sticky_widget/sticky_widget.rb:6:in `save_sticky_params'
+
+Rendered rescues/_trace (83.9ms)
+Rendered rescues/_request_and_response (1.5ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SearchController#create (for 127.0.0.1 at 2010-04-18 18:48:49) [POST]
+  Parameters: {"term"=>"dsfad", "commit"=>"Save changes", "authenticity_token"=>"0Y9DS63HmfT1IJs07A3ljSjneAHwE26mWhzlIjGHDE8="}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result
+
+NoMethodError (undefined method `merge' for []:Array):
+  lib/sticky_widget/sticky_widget.rb:6:in `save_sticky_params'
+
+Rendered rescues/_trace (42.5ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SearchController#create (for 127.0.0.1 at 2010-04-18 18:49:01) [POST]
+  Parameters: {"term"=>"dsfad", "commit"=>"Save changes", "authenticity_token"=>"0Y9DS63HmfT1IJs07A3ljSjneAHwE26mWhzlIjGHDE8="}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result
+
+NoMethodError (undefined method `merge' for []:Array):
+  lib/sticky_widget/sticky_widget.rb:6:in `save_sticky_params'
+
+Rendered rescues/_trace (48.2ms)
+Rendered rescues/_request_and_response (0.5ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SearchController#create (for 127.0.0.1 at 2010-04-18 18:49:05) [POST]
+  Parameters: {"term"=>"dsfad", "commit"=>"Save changes", "authenticity_token"=>"0Y9DS63HmfT1IJs07A3ljSjneAHwE26mWhzlIjGHDE8="}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result
+Completed in 2ms (DB: 0) | 302 Found [http://phoenix.netadventist.org/search]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:49:05) [GET]
+  Parameters: {"id"=>"search_result"}
+Rendering pages/search_result
+Completed in 69ms (View: 67, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:49:05) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 18:49:07) [GET]
+  Parameters: {"page"=>"1"}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result
+Completed in 2ms (DB: 0) | 302 Found [http://phoenix.netadventist.org/search?page=1]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:49:07) [GET]
+  Parameters: {"id"=>"search_result"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:49:07) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 18:49:08) [GET]
+  Parameters: {"page"=>"2"}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result?page=page1
+Completed in 2ms (DB: 0) | 302 Found [http://phoenix.netadventist.org/search?page=2]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:49:08) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page1"}
+Rendering pages/search_result
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page1]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:49:08) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 18:49:08) [GET]
+  Parameters: {"page"=>"3"}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result?page=page2
+Completed in 2ms (DB: 0) | 302 Found [http://phoenix.netadventist.org/search?page=3]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:49:08) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:49:08) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 18:49:09) [GET]
+  Parameters: {"page"=>"1"}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result?page=page3
+Completed in 2ms (DB: 0) | 302 Found [http://phoenix.netadventist.org/search?page=1]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:49:09) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page3"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page3]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:49:09) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 6ms (View: 3, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 18:49:09) [GET]
+  Parameters: {"page"=>"2"}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result?page=page1
+Completed in 2ms (DB: 0) | 302 Found [http://phoenix.netadventist.org/search?page=2]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:49:09) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page1"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page1]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:49:09) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:50:00) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page1"}
+Rendering pages/search_result
+Completed in 17ms (View: 16, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page1]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:50:00) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 18:50:01) [GET]
+  Parameters: {"page"=>"3"}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result?page=page2
+Completed in 2ms (DB: 0) | 302 Found [http://phoenix.netadventist.org/search?page=3]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:50:01) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:50:01) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 18:50:02) [GET]
+  Parameters: {"page"=>"1"}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result?page=page2
+Completed in 2ms (DB: 0) | 302 Found [http://phoenix.netadventist.org/search?page=1]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:50:02) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:50:02) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 18:50:03) [GET]
+  Parameters: {"page"=>"3"}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result?page=page2
+Completed in 2ms (DB: 0) | 302 Found [http://phoenix.netadventist.org/search?page=3]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:50:03) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:50:03) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 18:50:04) [GET]
+  Parameters: {"page"=>"1"}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result?page=page2
+Completed in 2ms (DB: 0) | 302 Found [http://phoenix.netadventist.org/search?page=1]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:50:04) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:50:04) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:50:25) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 18ms (View: 17, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:50:25) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 18:50:26) [GET]
+  Parameters: {"page"=>"3"}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result?page=page2
+Completed in 2ms (DB: 0) | 302 Found [http://phoenix.netadventist.org/search?page=3]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:50:26) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:50:26) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 18:50:26) [GET]
+  Parameters: {"page"=>"1"}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result?page=page3
+Completed in 2ms (DB: 0) | 302 Found [http://phoenix.netadventist.org/search?page=1]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:50:26) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page3"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page3]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:50:26) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:50:46) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page3"}
+Rendering pages/search_result
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page3]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:50:46) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:50:51) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page3"}
+Rendering pages/search_result
+Completed in 15ms (View: 14, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page3]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:50:51) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 18:50:53) [GET]
+  Parameters: {"page"=>"2"}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result?page=page1
+Completed in 2ms (DB: 0) | 302 Found [http://phoenix.netadventist.org/search?page=2]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:50:53) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page1"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page1]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:50:53) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 9ms (View: 3, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 18:50:53) [GET]
+  Parameters: {"page"=>"3"}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result?page=page2
+Completed in 2ms (DB: 0) | 302 Found [http://phoenix.netadventist.org/search?page=3]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:50:53) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:50:53) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:55:58) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 16ms (View: 15, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:55:58) [GET]
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:56:33) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:56:33) [GET]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:56:37) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 15ms (View: 14, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:56:37) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:56:37) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:56:37) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:56:46) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:56:46) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 18:56:47) [GET]
+  Parameters: {"page"=>"2"}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result?page=page3
+Completed in 2ms (DB: 0) | 302 Found [http://phoenix.netadventist.org/search?page=2]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:56:47) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page3"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page3]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:56:47) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+/!\ FAILSAFE /!\  Sun Apr 18 18:56:51 -0700 2010
+  Status: 500 Internal Server Error
+  no such file to load -- sticky_widget/sticky_widget.rb
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:156:in `require'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:156:in `require'
+    /Users/chrisyoung/Projects/sticky_widget/app/controllers/application_controller.rb:3
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:380:in `load_without_new_constant_marking'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:380:in `load_file'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:379:in `load_file'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:259:in `require_or_load'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:425:in `load_missing_constant'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:80:in `const_missing'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:92:in `const_missing'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:89:in `dispatch'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:121:in `_call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:130:in `build_middleware_stack'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:29:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:29:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:9:in `cache'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:28:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/string_coercion.rb:25:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/rack-1.0.1/lib/rack/head.rb:9:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/rack-1.0.1/lib/rack/methodoverride.rb:24:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/params_parser.rb:15:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/session/cookie_store.rb:93:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/failsafe.rb:26:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `synchronize'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:114:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/reloader.rb:34:in `run'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:108:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/cgi_process.rb:44:in `dispatch_cgi'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:101:in `dispatch_cgi'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:27:in `dispatch'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:76:in `process'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:74:in `synchronize'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:74:in `process'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:159:in `process_client'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:158:in `each'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:158:in `process_client'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:285:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:285:in `initialize'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:285:in `new'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:285:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:268:in `initialize'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:268:in `new'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:268:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/configurator.rb:282:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/configurator.rb:281:in `each'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/configurator.rb:281:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:128:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/command.rb:212:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:281
+    /usr/local/bin/mongrel_rails:19:in `load'
+    /usr/local/bin/mongrel_rails:19
+/!\ FAILSAFE /!\  Sun Apr 18 18:56:52 -0700 2010
+  Status: 500 Internal Server Error
+  no such file to load -- sticky_widget/sticky_widget.rb
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:156:in `require'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:156:in `require'
+    /Users/chrisyoung/Projects/sticky_widget/app/controllers/application_controller.rb:3
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:380:in `load_without_new_constant_marking'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:380:in `load_file'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:379:in `load_file'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:259:in `require_or_load'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:425:in `load_missing_constant'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:80:in `const_missing'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:92:in `const_missing'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:89:in `dispatch'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:121:in `_call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:130:in `build_middleware_stack'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:29:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:29:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:9:in `cache'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:28:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/string_coercion.rb:25:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/rack-1.0.1/lib/rack/head.rb:9:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/rack-1.0.1/lib/rack/methodoverride.rb:24:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/params_parser.rb:15:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/session/cookie_store.rb:93:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/failsafe.rb:26:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `synchronize'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:114:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/reloader.rb:34:in `run'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:108:in `call'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/cgi_process.rb:44:in `dispatch_cgi'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:101:in `dispatch_cgi'
+    /Users/chrisyoung/.gem/ruby/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:27:in `dispatch'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:76:in `process'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:74:in `synchronize'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:74:in `process'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:159:in `process_client'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:158:in `each'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:158:in `process_client'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:285:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:285:in `initialize'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:285:in `new'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:285:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:268:in `initialize'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:268:in `new'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:268:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/configurator.rb:282:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/configurator.rb:281:in `each'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/configurator.rb:281:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:128:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/command.rb:212:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:281
+    /usr/local/bin/mongrel_rails:19:in `load'
+    /usr/local/bin/mongrel_rails:19
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:57:18) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page3"}
+Rendering pages/search_result
+Completed in 78ms (View: 77, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page3]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:57:18) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 18:57:20) [GET]
+  Parameters: {"page"=>"3"}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result?page=page2
+Completed in 2ms (DB: 0) | 302 Found [http://phoenix.netadventist.org/search?page=3]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:57:20) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:57:20) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:57:28) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:57:28) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:57:29) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:57:29) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:57:37) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:57:37) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 18:57:38) [GET]
+  Parameters: {"page"=>"2"}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result?page=page3
+Completed in 2ms (DB: 0) | 302 Found [http://phoenix.netadventist.org/search?page=2]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:57:38) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page3"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page3]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:57:38) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 18:57:38) [GET]
+  Parameters: {"page"=>"1"}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result?page=page2
+Completed in 2ms (DB: 0) | 302 Found [http://phoenix.netadventist.org/search?page=1]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:57:38) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:57:38) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 18:57:39) [GET]
+  Parameters: {"page"=>"3"}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result?page=page1
+Completed in 2ms (DB: 0) | 302 Found [http://phoenix.netadventist.org/search?page=3]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:57:39) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page1"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page1]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:57:39) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 18:57:40) [GET]
+  Parameters: {"page"=>"2"}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result?page=page3
+Completed in 2ms (DB: 0) | 302 Found [http://phoenix.netadventist.org/search?page=2]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:57:40) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page3"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page3]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:57:40) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 18:57:50) [GET]
+  Parameters: {"page"=>"3"}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result?page=page2
+Completed in 2ms (DB: 0) | 302 Found [http://phoenix.netadventist.org/search?page=3]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:57:50) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:57:50) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 18:57:51) [GET]
+  Parameters: {"page"=>"2"}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result?page=page3
+Completed in 2ms (DB: 0) | 302 Found [http://phoenix.netadventist.org/search?page=2]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:57:51) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page3"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page3]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:57:51) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 18:57:51) [GET]
+  Parameters: {"page"=>"1"}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result?page=page2
+Completed in 2ms (DB: 0) | 302 Found [http://phoenix.netadventist.org/search?page=1]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:57:51) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:57:51) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:58:34) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:58:34) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+
+ActionView::MissingTemplate (Missing template /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb in view path app/views):
+  lib/sticky_widget.rb:21:in `render'
+  lib/sticky_widget.rb:19:in `render'
+  app/controllers/search_controller.rb:19:in `show'
+  app/controllers/search_controller.rb:14:in `show'
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:59:47) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:59:47) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb
+
+ActionView::MissingTemplate (Missing template /Users/chrisyoung/Projects/sticky_widget/lib/sticky_widget/sticky.html.erb in view path app/views):
+  lib/sticky_widget.rb:21:in `render'
+  lib/sticky_widget.rb:19:in `render'
+  app/controllers/search_controller.rb:19:in `show'
+  app/controllers/search_controller.rb:14:in `show'
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 18:59:53) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 16ms (View: 15, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 18:59:53) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/templates/javascript.html.erb
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 19:00:14) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 19:00:14) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/templates/javascript.html.erb
+
+ActionView::MissingTemplate (Missing template /Users/chrisyoung/Projects/sticky_widget/lib/templates/javascript.html.erb in view path app/views):
+  lib/sticky_widget.rb:21:in `render'
+  lib/sticky_widget.rb:19:in `render'
+  app/controllers/search_controller.rb:19:in `show'
+  app/controllers/search_controller.rb:14:in `show'
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 19:00:15) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 19:00:15) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/templates/javascript.html.erb
+
+ActionView::MissingTemplate (Missing template /Users/chrisyoung/Projects/sticky_widget/lib/templates/javascript.html.erb in view path app/views):
+  lib/sticky_widget.rb:21:in `render'
+  lib/sticky_widget.rb:19:in `render'
+  app/controllers/search_controller.rb:19:in `show'
+  app/controllers/search_controller.rb:14:in `show'
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 19:00:20) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 16ms (View: 14, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 19:00:20) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/javascript.html.erb
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 19:00:26) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 19:00:26) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/javascript.html.erb
+Completed in 6ms (View: 3, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 19:00:27) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 19:00:27) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/javascript.html.erb
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 19:00:35) [GET]
+  Parameters: {"page"=>"2"}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result?page=page1
+Completed in 2ms (DB: 0) | 302 Found [http://phoenix.netadventist.org/search?page=2]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 19:00:35) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page1"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page1]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 19:00:35) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/javascript.html.erb
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 19:00:36) [GET]
+  Parameters: {"page"=>"3"}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result?page=page2
+Completed in 2ms (DB: 0) | 302 Found [http://phoenix.netadventist.org/search?page=3]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 19:00:36) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 19:00:36) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/javascript.html.erb
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 19:00:36) [GET]
+  Parameters: {"page"=>"1"}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result?page=page3
+Completed in 2ms (DB: 0) | 302 Found [http://phoenix.netadventist.org/search?page=1]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 19:00:36) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page3"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page3]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 19:00:36) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/javascript.html.erb
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 19:00:37) [GET]
+  Parameters: {"id"=>"search"}
+Rendering pages/search
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search]
+
+
+Processing SearchController#new to js (for 127.0.0.1 at 2010-04-18 19:00:37) [GET]
+  Parameters: {"search"=>"search", "search_result"=>"search_result"}
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/javascript.html.erb
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://phoenix.netadventist.org/search/new.js?search=search;search_result=search_result]
+
+
+Processing SearchController#create (for 127.0.0.1 at 2010-04-18 19:00:39) [POST]
+  Parameters: {"term"=>"asf", "commit"=>"Save changes", "authenticity_token"=>"0Y9DS63HmfT1IJs07A3ljSjneAHwE26mWhzlIjGHDE8="}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result
+Completed in 2ms (DB: 0) | 302 Found [http://phoenix.netadventist.org/search]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 19:00:39) [GET]
+  Parameters: {"id"=>"search_result"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 19:00:39) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/javascript.html.erb
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 19:02:03) [GET]
+  Parameters: {"id"=>"search_result"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 19:02:03) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/javascript.html.erb
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 19:02:04) [GET]
+  Parameters: {"page"=>"2"}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result?page=page1
+Completed in 2ms (DB: 0) | 302 Found [http://phoenix.netadventist.org/search?page=2]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 19:02:04) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page1"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page1]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 19:02:05) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/javascript.html.erb
+Completed in 6ms (View: 3, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 19:02:09) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page1"}
+Rendering pages/search_result
+Completed in 16ms (View: 15, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page1]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 19:02:09) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/javascript.html.erb
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 19:02:12) [GET]
+  Parameters: {"page"=>"3"}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result?page=page2
+Completed in 2ms (DB: 0) | 302 Found [http://phoenix.netadventist.org/search?page=3]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 19:02:12) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 19:02:12) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/javascript.html.erb
+Completed in 6ms (View: 3, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 19:02:13) [GET]
+  Parameters: {"page"=>"1"}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result?page=page3
+Completed in 2ms (DB: 0) | 302 Found [http://phoenix.netadventist.org/search?page=1]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 19:02:13) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page3"}
+Rendering pages/search_result
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page3]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 19:02:13) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/javascript.html.erb
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 19:02:13) [GET]
+  Parameters: {"page"=>"2"}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result?page=page1
+Completed in 2ms (DB: 0) | 302 Found [http://phoenix.netadventist.org/search?page=2]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 19:02:13) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page1"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page1]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 19:02:13) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/javascript.html.erb
+Completed in 6ms (View: 3, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 19:02:14) [GET]
+  Parameters: {"page"=>"1"}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result?page=page2
+Completed in 2ms (DB: 0) | 302 Found [http://phoenix.netadventist.org/search?page=1]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 19:02:14) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 19:02:14) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/javascript.html.erb
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 19:02:15) [GET]
+  Parameters: {"page"=>"3"}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result?page=page1
+Completed in 2ms (DB: 0) | 302 Found [http://phoenix.netadventist.org/search?page=3]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 19:02:15) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page1"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page1]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 19:02:15) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/javascript.html.erb
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 19:02:36) [GET]
+  Parameters: {"page"=>"2"}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result?page=page3
+Completed in 2ms (DB: 0) | 302 Found [http://phoenix.netadventist.org/search?page=2]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 19:02:36) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page3"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page3]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 19:02:36) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/javascript.html.erb
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 19:02:36) [GET]
+  Parameters: {"page"=>"1"}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result?page=page2
+Completed in 2ms (DB: 0) | 302 Found [http://phoenix.netadventist.org/search?page=1]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 19:02:36) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 19:02:37) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/javascript.html.erb
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 19:02:37) [GET]
+  Parameters: {"page"=>"2"}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result?page=page1
+Completed in 2ms (DB: 0) | 302 Found [http://phoenix.netadventist.org/search?page=2]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 19:02:37) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page1"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page1]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 19:02:37) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/javascript.html.erb
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 19:02:38) [GET]
+  Parameters: {"page"=>"3"}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result?page=page2
+Completed in 2ms (DB: 0) | 302 Found [http://phoenix.netadventist.org/search?page=3]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 19:02:38) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 19:02:38) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/javascript.html.erb
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 19:02:39) [GET]
+  Parameters: {"page"=>"1"}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result?page=page3
+Completed in 2ms (DB: 0) | 302 Found [http://phoenix.netadventist.org/search?page=1]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 19:02:39) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page3"}
+Rendering pages/search_result
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page3]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 19:02:39) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/javascript.html.erb
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 19:02:39) [GET]
+  Parameters: {"page"=>"2"}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result?page=page1
+Completed in 2ms (DB: 0) | 302 Found [http://phoenix.netadventist.org/search?page=2]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 19:02:39) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page1"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page1]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 19:02:39) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/javascript.html.erb
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 19:04:43) [GET]
+  Parameters: {"page"=>"3"}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result?page=page2
+Completed in 2ms (DB: 0) | 302 Found [http://phoenix.netadventist.org/search?page=3]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 19:04:44) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 19:04:44) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/javascript.html.erb
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 19:04:44) [GET]
+  Parameters: {"page"=>"1"}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result?page=page3
+Completed in 2ms (DB: 0) | 302 Found [http://phoenix.netadventist.org/search?page=1]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 19:04:44) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page3"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page3]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 19:04:44) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/javascript.html.erb
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 19:04:52) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page3"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page3]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 19:04:52) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/javascript.html.erb
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 19:04:53) [GET]
+  Parameters: {"page"=>"2"}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result?page=page1
+Completed in 2ms (DB: 0) | 302 Found [http://phoenix.netadventist.org/search?page=2]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 19:04:53) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page1"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page1]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 19:04:54) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/javascript.html.erb
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 19:04:54) [GET]
+  Parameters: {"page"=>"3"}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result?page=page2
+Completed in 2ms (DB: 0) | 302 Found [http://phoenix.netadventist.org/search?page=3]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 19:04:54) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page2"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page2]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 19:04:54) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/javascript.html.erb
+Completed in 6ms (View: 3, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing SearchController#show (for 127.0.0.1 at 2010-04-18 19:04:55) [GET]
+  Parameters: {"page"=>"1"}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result?page=page3
+Completed in 2ms (DB: 0) | 302 Found [http://phoenix.netadventist.org/search?page=1]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 19:04:55) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page3"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page3]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 19:04:55) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/javascript.html.erb
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 19:05:03) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page3"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page3]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 19:05:03) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/javascript.html.erb
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 19:06:54) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page3"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page3]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 19:06:54) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/javascript.html.erb
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 19:07:15) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page3"}
+Rendering pages/search_result
+Completed in 6ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page3]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 19:07:15) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/javascript.html.erb
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 19:07:16) [GET]
+  Parameters: {"id"=>"search_result", "page"=>"page3"}
+Rendering pages/search_result
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result?page=page3]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 19:07:16) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/javascript.html.erb
+Completed in 6ms (View: 3, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 19:07:31) [GET]
+  Parameters: {"id"=>"search"}
+Rendering pages/search
+
+ActionView::TemplateError (No expansion found for :sticky_widget) on line #2 of app/views/pages/search.html.erb:
+1: <head>
+2:   <%= javascript_include_tag :sticky_widget %>
+3: </head>
+4: 
+5: <body>
+
+    app/views/pages/search.html.erb:2
+    lib/sticky_widget.rb:21:in `render'
+    app/controllers/pages_controller.rb:3:in `show'
+
+Rendered rescues/_trace (39.9ms)
+Rendered rescues/_request_and_response (1.4ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 19:07:43) [GET]
+  Parameters: {"id"=>"search"}
+Rendering pages/search
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search]
+
+
+Processing SearchController#new to js (for 127.0.0.1 at 2010-04-18 19:07:44) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/javascript.html.erb
+Completed in 87ms (View: 7, DB: 0) | 200 OK [http://phoenix.netadventist.org/search/new.js]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 19:08:31) [GET]
+  Parameters: {"id"=>"search"}
+Rendering pages/search
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search]
+
+
+Processing SearchController#new to js (for 127.0.0.1 at 2010-04-18 19:08:31) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/javascript.html.erb
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://phoenix.netadventist.org/search/new.js]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 19:08:39) [GET]
+  Parameters: {"id"=>"search"}
+Rendering pages/search
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search]
+
+
+Processing SearchController#new to js (for 127.0.0.1 at 2010-04-18 19:08:39) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/javascript.html.erb
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://phoenix.netadventist.org/search/new.js]
+
+
+Processing SearchController#create (for 127.0.0.1 at 2010-04-18 19:08:41) [POST]
+  Parameters: {"term"=>"test", "commit"=>"Save changes", "authenticity_token"=>"0Y9DS63HmfT1IJs07A3ljSjneAHwE26mWhzlIjGHDE8="}
+Redirected to http://phoenix.netadventist.org:3000/pages/search_result
+Completed in 2ms (DB: 0) | 302 Found [http://phoenix.netadventist.org/search]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2010-04-18 19:08:41) [GET]
+  Parameters: {"id"=>"search_result"}
+Rendering pages/search_result
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://phoenix.netadventist.org/pages/search_result]
+
+
+Processing SearchController#show to js (for 127.0.0.1 at 2010-04-18 19:08:41) [GET]
+Rendering /Users/chrisyoung/Projects/sticky_widget/lib/javascript.html.erb
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://phoenix.netadventist.org/search.js]

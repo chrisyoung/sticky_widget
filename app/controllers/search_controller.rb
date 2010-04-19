@@ -9,7 +9,7 @@ class SearchController < ApplicationController
   
   def show
     @term     = sticky_param('term')
-    @page_num = 'page' + sticky_param('page') if sticky_param('page')
+    @page_num = 'page' + sticky_param('page') if sticky_param('page') 
     
     respond_to do |format|
       format.html {
