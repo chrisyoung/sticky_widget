@@ -1,2 +1,2 @@
 // sticky_widget.js
-document.write(location.href);
+// window.location = location.href
