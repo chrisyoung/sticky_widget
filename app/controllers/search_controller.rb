@@ -9,7 +9,19 @@ class SearchController < ApplicationController
   
   def show
     @term     = sticky_param('term')
-    @page_num = 'page' + sticky_param('page') if sticky_param('page') 
+    
+    @page_num = sticky_param('page')
+    @result = 
+      case @page_num
+      when '1'
+        [1,2,3] 
+      when '2'
+        [4,5,6] 
+      when '3'
+        [7,8,9] 
+      else
+        [1,2,3]
+      end
     
     respond_to do |format|
       format.html {
