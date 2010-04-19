@@ -1,7 +1,3 @@
 <p><%= @term %></p>
 
 <p><%= @result %></p>
-
-<%= @page_num == '1' ? '1' : link_to('1', search_path(:page => 1)) %>
-<%= @page_num == '2' ? '2' : link_to('2', search_path(:page => 2)) %>
-<%= @page_num == '3' ? '3' : link_to('3', search_path(:page => 3)) %>
